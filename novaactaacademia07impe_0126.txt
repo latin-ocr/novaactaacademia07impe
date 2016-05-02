@@ -1,0 +1,38 @@
+ 
+
+ξ (μ) -..-
+
+D
+
+T ERMINO EGENERALI
+SERIERVMn HYPERGEOMETRICARVM.
+
+Auffore
+L. E V L E R O.
+
+u.
+
+Conuent. exhib. die 19 Aug. 1776.
+
+ᾗ. 1.
+Series hypergeometricas hic cum WaIlifio appello, quarum
+termini secundum faetores continuo multiplicatos procedunt,
+dum ipfi fad‘tores progreffionem arithmeticam constituunt, cu-
+iusmodi est notiffima series: 1, 2, 67 24, 120, 720 etc. cuius
+terminus indici n respondens est 1. 2. 3. 4 ..... n. Ge-
+neraliter igitur ex progreffione arithmetica quacunque forma-
+
+bitur talis series hypergeometrica:
+a9 α (a ‹⁴— b), a (a »μ b) (ιι-1- ab), a<a÷l1)(a÷2b) (a÷3 b), et'c.
+cuius ergo terminus indici n respondens 9 qui constat n fufio·
+
+ribus 9 erit
+a(a—÷-b)(a—⁴-2h)(a-÷-3b) ..... [a÷(71—1)b];
+
+vnde quoties n fuerit numerus integer pofitiuus, terminus ipfi
+respondens per huiusmodi fafiores facillime affiguntur, ita vt, fi
+index n exprimat abscissam cuiuspiam lineae curmae„ cuius app—
+licatac per terminos ipfius seriei exprimantur3 nullum plane cst
+dubium 2 quin ctiam absciffis per numeros ftafios vel etiam
+surdos
+

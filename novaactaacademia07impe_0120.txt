@@ -1,0 +1,40 @@
+--· (36) ⁶⁸⁶·-
+
+ 
+
+ 
+
+vel nurnero integro negatiuo fit aequalis. Hoc enim casu fieri
+potest, vt quispiam faetor in denominatoribus iu nihilum abeat,³
+ideoque ipfi termini in infinitum excrescere videntur. Etiamfi
+enim hoc incommodum adjec'tione constantium pariter in-
+finitarum euitari postet, tamen ipsi termini inde resultantes non
+amplius forent algebraici. Ita fi esset n ΞΟ, omnia prorsus
+integralia ibi exhibita penitus tollerentur. Si autem esset nz—x,
+tum tantum primae formulae relinquerentur, sequentes omnes
+autem euaderent inutiles. Si esset n:— 2, tum binae prio·-
+res formae tantum subsistere poffent3 solae autem ternae, fieffet
+n :- 3, etc. His autem cafibus exceptis, quicunque valores
+
+exponenti n tribuantur ‚ fingula theoremata innumerabiles sup-
+peditant formulas integrabiles.
+
+SchoHon.
+
+ξ. 22. Quemadmodum binis prioribus theorematibus
+iam sum vsus ad innumerabiles curuas algebraicas ixuxeniendas,
+quarum longitudos hoe valore exprimatur:s :sBCDfim <Du-‘¹5
+ita etiam bina posteriora theoremata innumerabilibus curuis al-
+gebraicis inueniendis inseruire possunt, quarum longitudo fit
+szsbfflcos. <Dm-¹. Etiamsi enim hi duo casus prorsusinter se
+conueniant, fi quidem, loco<D scribendo 900—-CD‚ altera sor-
+mula in alteram transformatum unde quis suspicari posset, duo
+posteriora theoremata tuto omitti potuiffe3 tamen hos casus
+non tam plane ex prioribus deducere licet, quippe qui verita-
+tes per se notatu dignissimas inuoluere sunt censendi. Quin
+etiam omnia haec quatuor theoremata iunetim sumpta viam
+sternunt acl infinitas curuas algebraicas inuestigandas‚ quarum
+longitudo s formula multo magis complicata exprimatur3 ad
+quod ostendendum ante oculos exponamus integrationes gene-
+rales, ad quas fingula theoremata nos duxerunt.
+

@@ -1,0 +1,37 @@
+36 HISTOIRE.
+
+qu'on ignore encore jusqu⁷aux premiers principes l’art de re-
+soudre generalement ces sortes de questions; <Sc ce n³est qu’&
+force de multiplier de pareilles recherches qu⁷on peut esperer
+d⁷approfondir cette matiere digne de l’attention de tous les
+
+Geometres.
+
+Le present Memoire nous parolt fort propre ⁶1 eclair-
+cir en plusieurs points cette nouvelle branclze de calcul‚ que
+M. Euler a e'te le premier7 ὃς presque le seul, 2¹1 traiter sous
+le nom crAnalyse indeterminee des Infinis: il est une suite des
+:recherches anterieures de l’Auteur sur le meme sujet. Car
+comme le Probleme general de trouver des cour-bes algebri- ·-
+ques dont Pelement indefini puisse 'erre exprime par une for-
+mule'diffe'rentielle prescrite Es, se reduit 2¹1 trouver un angle
+Φ tel que les sormules &s fimo> & Oscosstl} deviennent in·
+tegrablesffi δε que cette question ne peut meme &tre teutee en
+gener2113 M. Euler truite ici le Problehe inverse, en cherchant
+toutes les formules differentielles &W qui, multipliees par deux
+quantites proposees quelconques, devieuuent integr-ables.
+
+Aptes avoir resolu ce Probleme en general‚, & de deux
+manieres differentes, PAuteur fait l’application de ses formules
+generales :1 quelques cas particuliers qui sont d*un grand usage
+dans les recherches sur la nature des lignes courbes, relati.-
+ve-ment ὰ leur rectificatiom
+
+M. Euler termine son Memoire par Ia resolution d'un
+Probleme encore plus general, dans lequel il cherche une
+formule differentivelle· telle que fi on lu multiplic par trois
+quantites variables proposees‚ cha-que produit le prete ἐι rin-
+tegratIOn.
+
+II.
+

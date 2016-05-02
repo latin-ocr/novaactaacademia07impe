@@ -1,0 +1,41 @@
+HISTOIRE. 70
+
+ΙΙ.
+
+Qatuor Theoremata maxime notatu digna
+in Calculo integrali.
+
+Auctore L, Eulero, pag. 22.
+
+Le Sujet de ce Memoire est encore, comme celui du
+Memoire precedent, une suite des recherches multipliees de
+l⁷Auteur sur les courbes algebriques7 dont les arcs indefi-
+nis s font exprimes par une meme formule integrale, savoir
+szsOOEfin.<D⁷¹—¹. Car comme les ordonnees d‘une courbe
+questonque, qni repondent εὶ cet arc indefini s, sont
+
+xzsbscofiel &yszsfimQ
+
+ω etant l’angle de courbure: tout revient Ξι trouver pour cet
+angle ω une valeus telle que x &y puiffent erre exprimes
+algebriquement.» Or M. Euler a trouve que la valeur ωτ-
+(η-ι- 2 i—l— 1)OE satisfuit ὲ cette condition ‚ οὐ n designe un
+nombre quelconque, entier ou staffionnaire, pofitif ou negatis,
+& i un nombre entier positis quelconque3 propriete qui est
+demontree dans le premier & le second Theore‘me, osi 1⁷Au-
+teur donne pour [Os fimo) ἅ* pour [oscos. ω les Integrales
+algebriques compose'es la premiere des finus, l⁷autre des cofi-
+nus &angles qui forment une progreffion arithmetique decrois-
+sante dont le premier terme est (⁷2-l- 2 i)<l>‚ le dernier nCD
+& la difference ΖΦ. La demonstration de ces deux premiers
+Theoremes est fondee sur une reduftion generale tiree de la
+
+differentielle des deux formules fin.<1>⁷²s1n.>t<13 &fimspncoqu
+
+C⁷est par des expressions semblables & demontrees de
+
+la meme maniere que dans les deux derniers Theoremes Μ.
+Euler presente les integrales des memes formules sBscos.0J
+&sOsfin‚oe, bs etant :ECDcofi <Du—¹, de sorte que ces
+e 3 deux
+

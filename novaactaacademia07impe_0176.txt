@@ -1,0 +1,54 @@
+—- (92) --
+
+ 
+
+ 
+
+Euolutio casuum ,
+quibus pro n numerus integer negatiuus accipitur.
+
+§. 8. Statuamus 10. 72:1— 1, atque hinc nascetur sc·
+quens series infinita:
+
+1—cos.<D—÷-cos. 2<1>-c0s.3<1>-÷-cos.4<1>-cos.5(1>etc.
+
+in infinitum, cuius ergo summa per nostram seriem generalem
+cos. ξ Φ
+
+2 cos. ὲ φ
+obseruatum. Quodfi enim haec series, cuius summa tantisper
+ponatur Ξῖ, ducatur in 2 cos. ὲ φ, reperietur per reduc‘tiones no-
+
+tiffimas
+
+ 
+
+erit εξ, quod quidem iam dudum a Geometris est
+
+1 ,- εεοΓ.ὲΦ-εοῖ.ἕΦψεοίὲΦ-εοῖἑφψςοῐῖἰφ
+²5⁶⁰&sp-{-cos.;<1>÷cos.{<1>—c0s.g<1>÷coum—cosacdere·
+
+quod manifesto redit ad 2 s cos. ἑ Φ Ξ cof. ἑ <D ideoque s Ξ ἔ.
+
+ 
+
+ς. 9. Statuamus nunc nz— 2, et series orietur se-
+quens:
+1—2cos.<⁴J>—÷-3cos.2<D-4coss3<1>÷5cofi4sp—6coss543etc.
+cuius ergo summa erit z ἰοξῗβ 2, cuius veritas etiamnunc
+4 0 . 2
+
+sequenti modo ostendi potest. Possta seriei summa Ξῖ, erit
+
+oscofigspz{ 2cos.{<D-2c0s, {CD—÷-3 cos-{CD—-4cos.{(1>}etc
+⁶ -2cos.{<1>-1-3 cos.2}<D—4cos.{<D-÷-5 εοίὲφ ’
+
+qui valor coalescit in sequentem seriem:
+2scos-{CDT-cofigCD—cofigsp-i—cos-{CD—cofigsp etc.
+Multiplicetur denuo per 2 cos.{(1> 7 ac prodibit
+
+4sc0s.{(1>²:{cos'<D⁴-c⁰s' 2<D—cos.3(D÷cos.4<D-÷-cos.5<1>} etc-:consp
+· -c0s. 2<J>÷c0s.3<D-cos.4<1>-cos. 5OE
+
+ideo-
+

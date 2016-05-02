@@ -1,0 +1,50 @@
+--· (43) ··-··
+
+ 
+
+ 
+
+surdos expreffis determinatae respondeant applicatae, quarum
+autem quantitatem hinc neutiquam definire licet, sed ad hoc
+requiritur eiusmodi expressio ex quantitatibus a,b et n forma·
+ta, quae semper valorem determinatum exhibeat, fiue index n
+suerit numerus integer, siue fractus, fine adeo surdus.
+
+§. 2. Huiusmodi series hyper-geometricas iam saepius
+sum perscrutatus, vbi potissimum ex doetrina interpolationum
+seriei Wallifianae 1, 2, 6, 24, 120 etc. terminum indici in·
+definito n respondentem ita exprimi poffe inueni, vt fit
+
+II—n· 2n 21—n· 371. 31—72· 471- 41—n· 5η 51-72· 6η
+
+--ῑῑῖῑῖῖῑῖῑῑῖῖῑῖ etc·
+
+quae quidem expreffio in infinitum excurrit, verum tamen
+semper valorem determinatum exprimit, quicunque valor indi-
+ci n tribuatur. Simili modo pro serie generali supra allata
+terminum generalem, siue indici indefinito n respondentem, se-
+quenti produeto in infinitum excurrente repraesentari ostendi:
+
+a“.a1-n(a÷b2²· (a—i-b>¹*⁷‘(a-÷-2b)⁷²· (cz-i· 2 b)1'‘⁷² (ct-i· 3 b)⁷² e
+
+a-i—nb a-4-(n-i-1)b a÷(n-÷—2)l1 tc·
+
+ 
+
+ 
+
+Ratiocinia autem, quae me tum temporis ad has formulas per-
+duxerunt, ad theoriam interpolationum erant adstrie‘ta, neque
+fortasse ita enucleata , vt satis clare intelligi queant3 quamob-
+rem constitui istam inuestigationem ex ipsa natura harum serie·
+rum denuo repetere ac perspicue explicare.
+
+ᾗ. 3. Incipiam igitur ab ipsa serieWallifiana, quando·
+quidem vim ratiociniorum in casu speciali multo clarius per·
+spicere licebit, quam fi statim ea ad seriem generalem accom-
+modare vellem. Cum igitur terminus generalis indici n re-
+spondens tanquam funstio ipfius indicis n speetari posfit, eum
+more satis recepto per Δ : n exprimam, vbi Δ non quantita-
+
+F 2 tem,
+

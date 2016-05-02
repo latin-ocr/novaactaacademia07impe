@@ -1,0 +1,49 @@
+ 
+
+ 
+
+ 
+
+—- (194)
+
+Problema geometricum.
+
+ς. 7. Pofitionem ambarum recJarum A Z et az ad cal-
+culum reuocare.
+
+solutio,
+
+Tul). Π· §. 8. Hunc in finem in subfidium vocemus ternas di—
+F'g·4·re&iones fixas inter se normales7 ad quas Vtriusque resine po-
+fitionem per ternas coordinatus, istis direc‘tionibus parallelas, re-
+fer-„nnus Hinc igitur pro recia ΑΖ constituamus tres axes
+A RAG, A H, direffionibus illis fixis parallelos, quorum re-
+spec'iu pro punfto quocunque Z statuamus ternas coordinatas
+istis axibus parallelas A X z X, X Y Ξ Υ, et Y Z Ξ Ζ, ct po-
+sito interuallo A Z :S‚ qnia ad id ternae coordinatae con-
+stantes tenent rationes; ponamus XzFS‚Y:GS‚ ΖΞΗΞ,
+
+vbi cum sit z ἒξ, euidens est F exprimere cofinum anguli
+
+FA Ζ, quo direffio ΑΖ ad axem AF inclinatur. Simili mo-
+
+do G erit colinus anguli, quo direc‘tio ΑΖ ad axem AG in-
+
+clinatur, et H erit colinus anguli, qno directio A Z ad axem
+
+ΑΗ inclinatur. Praeterea vero, cum fit
+8²:X²÷Y²÷Z²:(F²—÷-G²-†—H²)S²,
+
+euidens est semper fore F²÷G²÷H² z 1.
+
+§. 9. Eodem modo pro altera dired‘tione az statuan-
+tur terni axes af,ag,ah‚ dii-efflonibus fixis paralleli, ad qnos
+positio cuiusvis punffi z referatur per coordinatus ax:x‚
+xy :y‚y z Σ z3 et pofito interuallo (ταῖς, statuatur x:fs‚
+y 315 et zh:s‚ vbi, vt ante, litterae f, g, h7 expriment
+colinus angulorum saz, gaz, huz, quibus direffio proposita
+az ad ternos axes af, ag, ah, inclinatur. Tum vero etiam
+hic habebitur Γ —l—g2 ÷h² z 1.
+
+ς. 10.
+

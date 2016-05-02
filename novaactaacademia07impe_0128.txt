@@ -1,0 +1,41 @@
+a (44) -·-
+
+ 
+
+tem‚ sed characterem functionis denotat. Hinc ergo, quoties n
+fuerit numerus integer politiuus ‚ erit
+
+At72:I.2.3.4 ...... '⁷²3
+ex quo intelligitur, pro terminis sequentibus fore
+A:(n—÷-1):(n—÷-1)A:n;
+A:(rz÷2>:(12÷ 1) (n-i-n)A:n;
+Az<n÷3)::(n-i- 1)(12—÷- 2)(n-†—3)A;n.
+Et quoniam in hac continua nouorum factorum accessione ipsa
+seriei natura contineri est censenda ‚ hae posteriores formulae
+etiam veritati debent effe consentaneae, quicunque valores in-
+dici n tribuantur. Ita cum Δτὲ designet terminum indici ὲ
+respondentem ‚ quem per quadraturam circuli exprimi notum
+est, ex eo sequentes ita aflignari poterunt:
+A: 1 -1-{ng:{;A:2{:{.{.A:-;;A:3¹-³ ἕ 3 A:{‚·etc.
+
+Ξ-Ξ ·····
+Hocque modo res se habebit, quicunque alius numerus pro n
+
+accipiatur, quamuis fort-affe valorem Axn nullo modo per
+mensuras cognitas exprimere liceat.
+
+§. 4. Constituto igitur fundamento, cui rota natura
+harum serierum innititur, aliud principium stabilire neceffe
+est, in hoc consistens, quod huiusmodi series in infinitum con-
+tinuatae tandem cum progressione geometrica confundantur3
+propterea quod noui fastores vlterius accedentes tanquam in-
+ter se aequales spectari possunt. Ita fi i denotet numerum in·
+finitum, sicque Δ :i terminum ab initio infinite remotum de-
+fignet, termini eum sequentes ita exhiberi poterunt:
+
+A:(i-÷-1):(i-÷-1)A:i:iA:i;
+A:(2¹4-2):(i-»-1)U<i-÷-2)A:i:iiA:i;
+At<i÷3>.:(i-÷—1)(i-÷-2>(i÷3)A:i:i³A:i;‘
+
+ficque
+

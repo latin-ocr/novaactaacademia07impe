@@ -1,0 +1,39 @@
+==(4)==
+
+ᾗ. 2. Quando autem quaestio proponitur de curuis AI-
+gebraicis inuenieudis ., quarum elementum indefinitum formula
+differentiali quadam praescripta bs exprimatur, totum negotium
+eo reducitur, vt angulus quispiam Φ inuestigetur, ex quo hae
+duae formulae differentiales dsfin. Φ et oscos. Φ integrabiles-
+euadant. Quae inuestigatio cum in genere ne suscipi quidem
+queat, quaestionem inuersam accuratius traetaffe iuuabit, qua
+omnes eae formulae differentiales exquiruntur, quae tam per
+sima> quam per εοίῖΦ multiplicatae reddantur integrabiles‚
+cuius resolutio cum nulla amplius laboret difficultate, earn in
+latiori sensu acceptam euohxamus, quo loco formularum fiu.<D
+et εοίῖΦ aliae quantitates quaecunque proponuntur. Quin
+etiam istam quaestionem ad tres pluresue huiusmodi quantita-
+tes extendamus. Quanquam autem methodum huiusmodi pro-
+blemata soluendi iam ante complures annos adumbraui, qua
+noua quaedam pars Aualyseos Infinitorum, quam indeterminatam
+appellare liceat, constitui est censenda, tamen quoniam hoc ar—
+gumentum tum nimis generaliter est traciarum, nunc operae
+pretium erit id maiori cura propius ad praesens institutum ac-¹
+commodare.
+
+Problema 1.
+
+Inuessl'gare omnes formulas dzffirentiales ‚ quae per datas
+duas quantitates propqsttas multiplicatae reddantur integrabiles.
+
+SolutiO.
+
+ξ. 3. Defignemus formulam differentialem quaesitam
+charactere BW, sintque p et q bini illi multiplicatores dati,
+quibus haec formula integi-abilis reddi debeat3 ita vt hae duae
+formulae integrales: sp &W et sq &W euadant quantitates al-
+gebraicae. Denotent igitur P et Q istas quantitates algebrai-
+cas 5 vt fit sp &Wr-P et sq dW: Q, atque hinc duplici
+
+’ mo-
+

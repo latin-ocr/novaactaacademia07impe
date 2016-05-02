@@ -1,0 +1,55 @@
+ 
+
+(84) ==⁵
+
+ 
+
+eius distantia ΟΥ inuariata maneat, etiamfi punciumY per in-
+teruallum infinite paruum promoueatur. Verum ss punctum O
+fuerit centrum circuli osculantis , quantitas interualli O Y non
+solum non variabitur, dum per differentialia prima procedi-
+mus7 sed etiam nullam variationem patietur, etiamsi per diffe-
+rentialia secunda procedamus; quamobrem ex hoc ipso princi-
+pio licebit istud centrum circuli osculantis O determinare.
+
+ᾗ. 3. Hunc in finem ex punc‘io hoc quaesito O ad
+axem demittatur perpendiculum ΟΡ ac vocentur interualla
+
+Α P :f et P O Ξ g, eritque X P :s— x; et ducia axi pa·
+
+rallela O Q fiet interuallum QY :y —g‚ atque hinc colligi-
+
+tur O Υὲ Ξ (f— x)² -†- (y — gf, cuius ergo ante omnia dif-
+
+ferenti-ale primum debet annihilari, vnde ob dy :p ὃ x fiet
+—26x(f-—x)-†-2pbx(y—-g):o, siue
+—f-l-x-l-l’ (y-g): 0;
+
+deinde vero etiam huius expressionis differentiale denuo ad nihilum
+
+reuocari debebit, vnde ob Bp :q &x orietur ista aequatIO:
+Dx÷ybp÷p3y—gbp:0‚ fiue
+
+1 —l—q(y—g>-÷-PP=0‚
+ex qua colligimus
+
+gzy÷¹4qpp·
+
+ 
+
+ᾗ. 4. At vero ex priore aequatione colligitur f:x
+-4-p(y —g)‚ vbi fi loco g valor modo inuentus substituatur,
+
+prodibit f—-x—p¹¹÷q'‘‡’'; sicque per sola elementa ad cur-
+
+nam pertinentia, scilicet x, y, p et q, centrum circuli osculan-
+tes Ο ita determinatur, vt fit
+
+Asz-—P-‘J—{p—p‘ et POzyq—sslffl
+
+quod ergo punctum nullam plane ambiguitatem inuoluit.
+
+ς. ς.
+
+ 
+

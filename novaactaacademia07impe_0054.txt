@@ -1,0 +1,39 @@
+40 HISTOIRE.
+
+IV.
+De iterata integratione formularum integralium ‚ dum
+
+aliquis exponens pro variabili assumitur.
+Aue'tore L. Eulero, pag. 64.
+
+. Pour mieux saifir l'idee de l’Auteur‚ le but de ce Me-
+moire, ἃ la methode d·integrer qui y est developpee, il suf-
+fira de suivre M. Euler dans la solution du premier Proble-
+me, ou il traite la formule la plus simple [κθ-Ἴ bx, dont
+la valeur prise* depuis le terme xzo jusqu'au terme x: 1,
+est ξ, de sorte que sx‘'—‘1 &x :0³- Pour la nouvelle inte-
+gration de cette formule on suppose l'exposant Θ νπίειωε, &
+apres avoir multiplie par ὒΘ on prend de part δε d'zintre rin-
+tegrale de maniere qu'elle evanouisse en mettant ΘΞα. De
+cette muniere on a sffxss‘sbbffzsieff. Mais zi cause de (ἐξ
+
+constant δε [ὃ Θ x⁰ ,τ- x& — xa
+
+ 
+
+‚ on aura
+
+D'une muniere semblable M. Euler traite plusieurs au-
+tres foi-mules plus compliquees dont les Integrales sont con-
+nues pour certains termes d'integration determines.
+
+Methodus facilis ini-estigandY'indium osculi, ex principio
+
+Maximorum et Minimorum petita.
+Audiore L. Eulero, pag. 83.
+
+Si d⁷un point quelconque Y d’une ligne courbe on tire
+
+la Normale, on sait que chaque point O de cette Normalela
+a
+

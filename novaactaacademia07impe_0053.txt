@@ -1,0 +1,38 @@
+HrsTOIRE. 39
+
+& en general
+
+Le nm‘za(a-⁴-b) (a÷2b) (cm-312) ..... [a÷(n—1)b]
+il se presente une question difficile aurant que curiense sur la
+valent du terme nme, lorsque n est un nombre franionnaire,
+question dont M. Euler avoit deja donne une solution dans
+son Calcul Differ-entiel, pag. 832„ οὐ il a trouve, par la voye
+des interpolations.,l’expreffion suivante pour le terme nm‘ de la
+
+serie mentionnee:
+01-”(a-⁴-b)⁷² (a-r-b)¹-⁷¹(a-÷-2l1)’²(a-r-2b3¹*’²(a÷3b)’²
+
+Mais comme la methode‚ par laquelle il avoit ete conduit τὶ
+cette expreffion, ne lui a paru ni presentee d'une maniere affez
+lumineuse, ni fondee‚ comme cela devroit erre, sur la nature
+meme de ces series, il a tache de suppleer ὲ ce double de-
+
+faut dans le present memoire.
+
+La methode que l’Auteur employe ici est fondee sur
+la confideration du terme ime de la serie hypergeomerrique en
+question, i etant un nombre infiniment grand. Car en partant
+du terme nm, on peut former facilement les termes de l'or-
+dre n-l-1 , n-l-2‚ n-4—3, ’δε en general de l’ordre n÷i‚
+exprimes par le terme n⁷⁷¹03 & en patrant du terme im‘ , on
+peut former succeffivement les termes i—{- 1 ‚ i-l- 2 , i—l- 3 ,
+& en general i—l-n; deforte que pour cet ordre i-1—n on
+obtient deux expreffions qui, comparees entr'elles‚ fourniffent
+pour le terme nme en question un produit d’une infinite de
+faelem-s dont la loi de progr-effron est evidente, & dans lequel
+on peut donner ἐι la lettre n telle valeur qu’on veut, parce·
+que dans toute rope-ration il n'y a rien qui doive exclure les
+frastions , ni meme les valeurs irrationnelles‚ comme l‘Auteut
+
+fait voir par plufieurs exemples. IV
+

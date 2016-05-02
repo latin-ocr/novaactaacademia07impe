@@ -1,0 +1,51 @@
+Ξ (ςο) ----
+
+ 
+
+Quotus ex diuifione illius per hanc ortus prodit
+
+molluit-2&
+
+vnde fi radix potestatis n extrahatur, prodit
+α( β(τ(βψ)(ψ3βψ)ας
+
+13-.-—¹ μμ
+
+β (³121) (a1i÷)i3÷·-) (ιεεψηβψ)
+quae frustio in infinitum continuata manifesto reducitur ad
+
+ᾗῇ, cuius valor, ob i infinitum, vtique est unitas3 sicque de-
+monstratum est hos ambos valores ipsius Δ : nv effe inter se
+
+aequales. Eadem autem demonstrat-io quoque valebit pro se-
+quenti monitione, vbi omnes series hypergeouietricas in genere
+
+sumus contemplaturi..
+
+ 
+
+Explicatio Analyseos pro serie hypergeometrica generali.
+
+§. 13. confideremus nunc fimili modo hanc seriem
+hypergeometricam generalem τ·
+a, a (a -i- b)‚a a(a —l-b) (a-i-:z b), a (ct—i· b) (cm-2 b) (aa-3 b), etc.
+cuius terminus indicin respondens, qui {cilicet componitur ex
+n factoribus, ponatur
+
+a(a-÷-b) (ιι-με b) (αὴ-3 b). .-.. [a—i-(n— 1)b]::A tn,
+quandoquidem ‚ ob litteras α et b constantes , speciari poterit
+tanquam functio quantitatis variabilis n. Hinc igitur ex indole
+formationis erit
+
+A:(n-÷-1):A :n(a-†—nb);
+
+A:(n—⁴-2):A:n(a—÷-nb> [a÷(7z-i—1)b];
+
+Δ :(n-i-3):A :n(a-l-nb) [a÷(n-i- 1)b] [a—i-(n-i-a) b];
+atque adeo, fi i denotet numerum infinitum ., erit
+
+.A:(n÷i):A:n(a÷nb) [a—i-(n—i- 1)b]....[a÷(n-i-i-1>b]
+
+ᾗ. 14. Ex indole autem ipsius formae est Δ ·
+:a
+
